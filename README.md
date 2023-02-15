@@ -9,12 +9,12 @@ Ethical approval was obtained from the Zhejiang lab Institutional Review Board.
 
 # Data Model
 
-You can download the latest release by clicking [here](https://github.com/RCHDS-Zhejianglab/ CDM-for-biomedical-information-fusion-analysis.git).
+You can download the latest release by clicking [here](https://github.com/RCHDS-Zhejianglab/CDM-for-biomedical-information-fusion-analysis.git).
 
 Preferably, you can download sqlmap by cloning the Git repository:
 
 ```shell
 
-git clone https://github.com/RCHDS-Zhejianglab/ CDM-for-biomedical-information-fusion-analysis.git
+git clone https://github.com/RCHDS-Zhejianglab/CDM-for-biomedical-information-fusion-analysis.git
 ```
 
